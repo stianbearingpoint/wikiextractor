@@ -91,3 +91,6 @@ ENV/
 
 # Editor files
 *.idea
+norwegian_word_count.json
+output/*
+nowiki-latest-pages-articles.xml
